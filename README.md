@@ -32,9 +32,9 @@ The dataset is compiled from the World Bank's World Development Indicators (WDI)
 
 ## Project Structure & Notebook Link
 - **Main Jupyter Notebook:** [multidimensional_development_clustering.ipynb](https://github.com/lapidba/WHO-capstone-project/blob/main/multidimensional_development_clustering.ipynb)
-- **Raw Data Directory:** `[./data/](https://github.com/lapidba/WHO-capstone-project/tree/main/data)`
-- **Plots Directory:** `[./plots/`]https://github.com/lapidba/WHO-capstone-project/tree/main/data
-- **Final Output Dataset:** `./data/final_country_development_clusters.csv`
+- **Raw Data Directory:** .[./data](https://github.com/lapidba/WHO-capstone-project/tree/main/data)
+- **Plots Directory:** .[./plots](https://github.com/lapidba/WHO-capstone-project/tree/main/plots).
+- **Final Output Dataset:** `https://github.com/lapidba/WHO-capstone-project/tree/main/data/final_country_development_clusters.csv`
 
 ## Contact & Further Information
 Author: Arjun Singh GitHub: https://github.com/lapidba LinkedIn: https://www.linkedin.com/in/singharjun/ Date: July 2026
