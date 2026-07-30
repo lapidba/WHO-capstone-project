@@ -31,11 +31,11 @@ The dataset is compiled from the World Bank's World Development Indicators (WDI)
   - **Cluster 3 (Low-Income Deficit):** Low income ($<\$1,500$), severe under-5 mortality (58.4/1k), <50% electricity access.
 
 ## Project Structure & Notebook Link
-- **Main Jupyter Notebook:** [multidimensional_development_clustering.ipynb](file:///C:/Users/aarus/AntiGravity/Temp-Project/multidimensional_development_clustering.ipynb)
-- **Raw Data Directory:** `./data/`
-- **Plots Directory:** `./plots/`
-- **Final Output Dataset:** `./data/final_country_development_clusters.csv`
+- **Main Jupyter Notebook:** [multidimensional_development_clustering.ipynb](https://github.com/lapidba/WHO-capstone-project/blob/main/multidimensional_development_clustering.ipynb)
+- **Raw Data Directory:** .[./data](https://github.com/lapidba/WHO-capstone-project/tree/main/data)
+- **Plots Directory:** .[./plots](https://github.com/lapidba/WHO-capstone-project/tree/main/plots).
+- **Final Output Dataset:** `https://github.com/lapidba/WHO-capstone-project/tree/main/data/final_country_development_clusters.csv`
 
 ## Contact & Further Information
-Senior Research Analyst & Data Scientist in International Development  
-Project Repository: `./`
+Author: Arjun Singh GitHub: https://github.com/lapidba LinkedIn: https://www.linkedin.com/in/singharjun/ Date: July 2026
+Project Repository: `https://github.com/lapidba/WHO-capstone-project`
